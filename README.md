@@ -36,7 +36,7 @@ Gosto de código organizado, que outra pessoa consegue ler e manter. Por isso pr
 
 ## 🚀 Projetos em destaque
 
-### 🔍 [Perfil Checkup](https://github.com/oimanum/perfil-checkup)
+### 🔍 [Perfil Checkup](https://github.com/oimanum/perfil-checkup) · [🔗 demo online](https://oimanum.github.io/perfil-checkup/)
 Analisa o perfil do GitHub de qualquer pessoa pelos olhos de um recrutador: dá uma **nota de 0 a 100** e lista **o que corrigir primeiro**, ordenado por quantos pontos cada ajuste rende. Funciona no navegador e no terminal.
 `JavaScript` · `API do GitHub` · `node:test` · `GitHub Actions`
 Sem dependências, com lógica separada da interface e testes automatizados.
